@@ -1,1 +1,16 @@
 lead_id,name,age,country,interest,status
+003,Ali,24,pakistan,tech,secured
+001,Aiman,22,Pakistan,Tech,secured
+002,Zoya,25,UAE,Fashion,secured
+003,Ali,23,Pakistan,Gaming,secured
+1,Aiman,22,pakistan,Water bottle,secured
+2,Abdullah,27,dubai,tumb;er,secured
+3,Hassan,,,,no_response
+4,Amna,,,,no_response
+5,Summi,,,,no_response
+01,Aiman,,,,no_response
+02,Hassan,22,Australia,Software Development,secured
+01,Aiman,,,,no_response
+01,Aiman,,,,no_response
+01,Aiman,,,,no_response
+02,hassan,22,pak,tech,secured
